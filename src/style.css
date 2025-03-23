@@ -1,5 +1,10 @@
+:root {
+  --primary-blue: #00acdc;
+}
+
 body {
   margin: 0;
+  font-family: Roboto, sans-serif;
 }
 
 .header {
@@ -47,9 +52,7 @@ body {
 
   height: 60px;
 
-  font-family: Roboto, sans-serif;
   font-size: 12px;
-  font-weight: 500;
   white-space: nowrap;
   text-decoration: none;
   text-transform: uppercase;
